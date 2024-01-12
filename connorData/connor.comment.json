@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "657349cf5bf3280921824fc6"
+  },
+  "commentId": "1",
+  "fightId": "25",
+  "userName": "Eren Gregor",
+  "date": "08.12.2023",
+  "comment": "Connor is still goat! That guy only wrestles! Coyotes can't hurt the lion!",
+  "_class": "com.main.web.model.Comment"
+},
+{
+  "_id": {
+    "$oid": "65734a6e5bf3280921824fc7"
+  },
+  "commentId": "2",
+  "fightId": "25",
+  "userName": "Turko Gregor",
+  "date": "08.12.2023",
+  "comment": "I want to apologize to.. absolutely no body. Double champ does whatever he wants!",
+  "_class": "com.main.web.model.Comment"
+},
+{
+  "_id": {
+    "$oid": "65734a985bf3280921824fc8"
+  },
+  "commentId": "3",
+  "fightId": "25",
+  "userName": "Sagopakey",
+  "date": "08.12.2023",
+  "comment": "Nice figt!",
+  "_class": "com.main.web.model.Comment"
+},
+{
+  "_id": {
+    "$oid": "65734bc419aa0478c7b5d823"
+  },
+  "commentId": "4",
+  "fightId": "25",
+  "userName": "Sagopakey123",
+  "date": "08.12.2023",
+  "comment": "Enjoyed watching!",
+  "_class": "com.main.web.model.Comment"
+},
+{
+  "_id": {
+    "$oid": "65734eb519aa0478c7b5d824"
+  },
+  "commentId": "5",
+  "fightId": "25",
+  "userName": "UGUR",
+  "date": "08.12.2023",
+  "comment": "IMPARATOR!",
+  "_class": "com.main.web.model.Comment"
+}]

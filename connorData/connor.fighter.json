@@ -1,0 +1,338 @@
+[{
+  "_id": {
+    "$oid": "65734761d18390f955a985ee"
+  },
+  "fighterId": "31",
+  "name": "Conor",
+  "lastName": "McGregor",
+  "nickName": "The Notorious",
+  "weight": 240.9,
+  "height": 106.5,
+  "reach": 114.3,
+  "birthDate": "14-07-1988"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a985ef"
+  },
+  "fighterId": "22",
+  "name": "Nate",
+  "lastName": "Diaz",
+  "nickName": "Marijuana",
+  "weight": 264,
+  "height": 111.2,
+  "reach": 117.3,
+  "birthDate": "16-04-1985"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a985f0"
+  },
+  "fighterId": "28",
+  "name": "Dustin",
+  "lastName": "Poirier",
+  "nickName": "The Diamond",
+  "weight": 240.9,
+  "height": 106.5,
+  "reach": 111.2,
+  "birthDate": "19-01-1989"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a985f1"
+  },
+  "fighterId": "25",
+  "name": "Khabib",
+  "lastName": "Nurmagomedov",
+  "nickName": "The Eagle",
+  "weight": 239.3,
+  "height": 108.1,
+  "reach": 108.1,
+  "birthDate": "20-09-1988"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a985f2"
+  },
+  "fighterId": "21",
+  "name": "Jose",
+  "lastName": "Aldo",
+  "nickName": "Junior",
+  "weight": 210,
+  "height": 103.4,
+  "reach": 108.1,
+  "birthDate": "09-09-1986"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a985f3"
+  },
+  "fighterId": "26",
+  "name": "Donald",
+  "lastName": "Cerrone",
+  "nickName": "Cowboy",
+  "weight": 262.5,
+  "height": 112.7,
+  "reach": 112.7,
+  "birthDate": "29-03-1983"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a985f4"
+  },
+  "fighterId": "24",
+  "name": "Eddie",
+  "lastName": "Alvarez",
+  "nickName": "The Underground King",
+  "weight": 239.3,
+  "height": 106.5,
+  "reach": 106.5,
+  "birthDate": "11-01-1984"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a985f5"
+  },
+  "fighterId": "20",
+  "name": "Chad",
+  "lastName": "Mendes",
+  "nickName": "Money",
+  "weight": 223.9,
+  "height": 101.9,
+  "reach": 101.9,
+  "birthDate": "01-05-1985"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a985f6"
+  },
+  "fighterId": "19",
+  "name": "Dennis",
+  "lastName": "Siver",
+  "nickName": null,
+  "weight": 223.9,
+  "height": 103.4,
+  "reach": 108.1,
+  "birthDate": "13-01-1979"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a985f7"
+  },
+  "fighterId": "17",
+  "name": "Diego",
+  "lastName": "Brandao",
+  "nickName": "DB",
+  "weight": 239.3,
+  "height": 103.4,
+  "reach": 105.8,
+  "birthDate": "27-05-1987"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a985f8"
+  },
+  "fighterId": "16",
+  "name": "Max",
+  "lastName": "Holloway",
+  "nickName": "Blessed",
+  "weight": 225.4,
+  "height": 109.6,
+  "reach": 106.5,
+  "birthDate": "04-12-1991"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a985f9"
+  },
+  "fighterId": "15",
+  "name": "Marcus",
+  "lastName": "Brimage",
+  "nickName": "The Bama Beast",
+  "weight": 208.4,
+  "height": 98.8,
+  "reach": 109.6,
+  "birthDate": "06-04-1985"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a985fa"
+  },
+  "fighterId": "14",
+  "name": "Ivan",
+  "lastName": "Buchinger",
+  "nickName": "Gods Lion",
+  "weight": 211.4,
+  "height": 100,
+  "reach": 108,
+  "birthDate": "31-04-1989"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a985fb"
+  },
+  "fighterId": "13",
+  "name": "Dave",
+  "lastName": "Hill",
+  "nickName": "Dj Mic Check",
+  "weight": 209.4,
+  "height": 100,
+  "reach": 108,
+  "birthDate": "31-07-1989"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a985fc"
+  },
+  "fighterId": "12",
+  "name": "Steve",
+  "lastName": "O'Keefe",
+  "nickName": "Kasvaa",
+  "weight": 209.4,
+  "height": 100,
+  "reach": 108,
+  "birthDate": "31-07-1988"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a985fd"
+  },
+  "fighterId": "11",
+  "name": "Aaron",
+  "lastName": "Jahnsen",
+  "nickName": "Pitbull",
+  "weight": 209.4,
+  "height": 100,
+  "reach": 108,
+  "birthDate": "31-07-1985"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a985fe"
+  },
+  "fighterId": "10",
+  "name": "Artur",
+  "lastName": "Sowinski",
+  "nickName": "Emperor",
+  "weight": 209.4,
+  "height": 101,
+  "reach": 109,
+  "birthDate": "31-07-1985"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a985ff"
+  },
+  "fighterId": "9",
+  "name": "Paddy",
+  "lastName": "Doherty",
+  "nickName": "Immortal",
+  "weight": 209.4,
+  "height": 101,
+  "reach": 109,
+  "birthDate": "31-07-1985"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a98600"
+  },
+  "fighterId": "8",
+  "name": "Mike",
+  "lastName": "Wood",
+  "nickName": "Iron Mike",
+  "weight": 209.4,
+  "height": 101,
+  "reach": 109,
+  "birthDate": "31-07-1985"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a98601"
+  },
+  "fighterId": "7",
+  "name": "Hugh",
+  "lastName": "Brady",
+  "nickName": "Bradley",
+  "weight": 209.4,
+  "height": 101,
+  "reach": 109,
+  "birthDate": "31-07-1985"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a98602"
+  },
+  "fighterId": "6",
+  "name": "Joe",
+  "lastName": "Duffy",
+  "nickName": "Irish",
+  "weight": 239.3,
+  "height": 108.1,
+  "reach": 112.7,
+  "birthDate": "18-02-1988"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a98603"
+  },
+  "fighterId": "5",
+  "name": "Connor",
+  "lastName": "Dillion",
+  "nickName": "Guiness",
+  "weight": 239.3,
+  "height": 108.1,
+  "reach": 112.7,
+  "birthDate": "18-02-1986"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a98604"
+  },
+  "fighterId": "4",
+  "name": "Stephen",
+  "lastName": "Bailey",
+  "nickName": "Baileys",
+  "weight": 239.3,
+  "height": 108.1,
+  "reach": 112.7,
+  "birthDate": "18-02-1986"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a98605"
+  },
+  "fighterId": "3",
+  "name": "Artemji",
+  "lastName": "Sitenkov",
+  "nickName": "Stinkov",
+  "weight": 239.3,
+  "height": 108.1,
+  "reach": 112.7,
+  "birthDate": "18-02-1986"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a98606"
+  },
+  "fighterId": "2",
+  "name": "Mo",
+  "lastName": "Taylor",
+  "nickName": "Momo",
+  "weight": 239.3,
+  "height": 108.1,
+  "reach": 112.7,
+  "birthDate": "18-02-1984"
+},
+{
+  "_id": {
+    "$oid": "65734761d18390f955a98607"
+  },
+  "fighterId": "1",
+  "name": "Gary",
+  "lastName": "Morris",
+  "nickName": "Garymo",
+  "weight": 239.3,
+  "height": 108.1,
+  "reach": 112.7,
+  "birthDate": "18-02-1984"
+}]

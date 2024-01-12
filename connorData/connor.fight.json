@@ -1,0 +1,420 @@
+[{
+  "_id": {
+    "$oid": "65733570d18390f955a985d1"
+  },
+  "fightId": "28",
+  "date": "Jul 10, 2021",
+  "year": 2021,
+  "submission": "TKO - Doctor's Stoppage",
+  "round": 1,
+  "fightName": "UFC 264: Poirier vs. McGregor 3",
+  "opponentName": "Dustin Poirier",
+  "fighterId": "28",
+  "preFightStat": "22-5-0",
+  "win": false
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985d2"
+  },
+  "fightId": "27",
+  "date": "Jan 23, 2021",
+  "year": 2021,
+  "submission": "KO/TKO",
+  "round": 2,
+  "fightName": "UFC 257: Poirier vs. McGregor 2",
+  "opponentName": "Dustin Poirier",
+  "fighterId": "28",
+  "preFightStat": "22-4-0",
+  "win": false
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985d3"
+  },
+  "fightId": "26",
+  "date": "Jan 18, 2020",
+  "year": 2020,
+  "submission": "KO/TKO",
+  "round": 1,
+  "fightName": "UFC 246: McGregor vs. Cowboy",
+  "opponentName": "Donald Cerrone",
+  "fighterId": "26",
+  "preFightStat": "21-4-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985d4"
+  },
+  "fightId": "25",
+  "date": "Oct 6, 2018",
+  "year": 2018,
+  "submission": "Submission",
+  "round": 4,
+  "fightName": "UFC 229: Khabib vs. McGregor",
+  "opponentName": "Khabib Nurmagomedov",
+  "fighterId": "25",
+  "preFightStat": "21-3-0",
+  "win": false
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985d5"
+  },
+  "fightId": "24",
+  "date": "Nov 12, 2016",
+  "year": 2016,
+  "submission": "KO/TKO",
+  "round": 2,
+  "fightName": "UFC 205: Alvarez vs. McGregor",
+  "opponentName": "Eddie Alvarez",
+  "fighterId": "24",
+  "preFightStat": "20-3-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985d6"
+  },
+  "fightId": "23",
+  "date": "Aug 20, 2016",
+  "year": 2016,
+  "submission": "Decision - Majority",
+  "round": 5,
+  "fightName": "UFC 202: Diaz vs. McGregor 2",
+  "opponentName": "Nate Diaz",
+  "fighterId": "22",
+  "preFightStat": "19-3-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985d7"
+  },
+  "fightId": "22",
+  "date": "Mar 5, 2016",
+  "year": 2016,
+  "submission": "Submission",
+  "round": 2,
+  "fightName": "UFC 196: McGregor vs. Diaz",
+  "opponentName": "Nate Diaz",
+  "fighterId": "22",
+  "preFightStat": "19-2-0",
+  "win": false
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985d8"
+  },
+  "fightId": "21",
+  "date": "Dec 12, 2015",
+  "year": 2015,
+  "submission": "KO/TKO",
+  "round": 1,
+  "fightName": "UFC 194: Aldo vs. McGregor",
+  "opponentName": "Jose Aldo",
+  "fighterId": "21",
+  "preFightStat": "18-2-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985d9"
+  },
+  "fightId": "20",
+  "date": "Jul 11, 2015",
+  "year": 2015,
+  "submission": "KO/TKO",
+  "round": 2,
+  "fightName": "UFC 189: Mendes vs. McGregor",
+  "opponentName": "Chad Mendes",
+  "fighterId": "20",
+  "preFightStat": "17-2-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985da"
+  },
+  "fightId": "19",
+  "date": "Jan 18, 2015",
+  "year": 2015,
+  "submission": "KO/TKO",
+  "round": 2,
+  "fightName": "UFC Fight Night: McGregor vs. Siver",
+  "opponentName": "Dennis Siver",
+  "fighterId": "19",
+  "preFightStat": "16-2-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985db"
+  },
+  "fightId": "18",
+  "date": "Sep 27, 2014",
+  "year": 2014,
+  "submission": "KO/TKO",
+  "round": 1,
+  "fightName": "UFC 178: Johnson vs. Cariaso",
+  "opponentName": "Dustin Poirier",
+  "fighterId": "28",
+  "preFightStat": "15-2-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985dc"
+  },
+  "fightId": "17",
+  "date": "Jul 19, 2014",
+  "year": 2014,
+  "submission": "KO/TKO",
+  "round": 1,
+  "fightName": "UFC Fight Night: McGregor vs. Brandao",
+  "opponentName": "Diego Brandao",
+  "fighterId": "17",
+  "preFightStat": "14-2-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985dd"
+  },
+  "fightId": "16",
+  "date": "Aug 17, 2013",
+  "year": 2013,
+  "submission": "Decision - Unanimous",
+  "round": 3,
+  "fightName": "UFC Fight Night: Shogun vs. Sonnen",
+  "opponentName": "Max Holloway",
+  "fighterId": "16",
+  "preFightStat": "13-2-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985de"
+  },
+  "fightId": "15",
+  "date": "Apr 6, 2013",
+  "year": 2013,
+  "submission": "KO/TKO",
+  "round": 1,
+  "fightName": "UFC on FUEL TV 9: Mousasi vs. Latifi",
+  "opponentName": "Marcus Brimage",
+  "fighterId": "15",
+  "preFightStat": "12-2-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985df"
+  },
+  "fightId": "14",
+  "date": "Dec 31, 2012",
+  "year": 2012,
+  "submission": "KO",
+  "round": 1,
+  "fightName": "CWFC 51: Cage Warriors Fighting Championship 51",
+  "opponentName": "Ivan Buchinger",
+  "fighterId": "14",
+  "preFightStat": "11-2-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985e0"
+  },
+  "fightId": "13",
+  "date": "Jun 2, 2012",
+  "year": 2012,
+  "submission": "Submission (Rear Naked Choke)",
+  "round": 2,
+  "fightName": "CWFC 47: Cage Warriors Fighting Championship 47",
+  "opponentName": "Dave Hill",
+  "fighterId": "13",
+  "preFightStat": "10-2-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985e1"
+  },
+  "fightId": "12",
+  "date": "Feb 18, 2012",
+  "year": 2012,
+  "submission": "KO",
+  "round": 1,
+  "fightName": "CWFC 45: Cage Warriors Fighting Championship 45",
+  "opponentName": "Steve O'Keefe",
+  "fighterId": "12",
+  "preFightStat": "9-2-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985e2"
+  },
+  "fightId": "11",
+  "date": "Sep 8, 2011",
+  "year": 2011,
+  "submission": "KO",
+  "round": 1,
+  "fightName": "CWFC: Fight Night 2",
+  "opponentName": "Aaron Jahnsen",
+  "fighterId": "11",
+  "preFightStat": "8-2-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985e3"
+  },
+  "fightId": "10",
+  "date": "Jun 11, 2011",
+  "year": 2011,
+  "submission": "KO",
+  "round": 2,
+  "fightName": "CG 2: Clash of the Giants",
+  "opponentName": "Artur Sowinski",
+  "fighterId": "10",
+  "preFightStat": "7-2-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985e4"
+  },
+  "fightId": "9",
+  "date": "Apr 16, 2011",
+  "year": 2011,
+  "submission": "KO",
+  "round": 1,
+  "fightName": "IFC: Immortal Fighting Championship 4",
+  "opponentName": "Paddy Doherty",
+  "fighterId": "9",
+  "preFightStat": "6-2-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985e5"
+  },
+  "fightId": "8",
+  "date": "Mar 12, 2011",
+  "year": 2011,
+  "submission": "KO",
+  "round": 1,
+  "fightName": "CC 8: Fields vs. Redmond",
+  "opponentName": "Mike Wood",
+  "fighterId": "8",
+  "preFightStat": "5-2-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985e6"
+  },
+  "fightId": "7",
+  "date": "Feb 12, 2011",
+  "year": 2011,
+  "submission": "KO",
+  "round": 1,
+  "fightName": "CFC: Chaos Fighting Championship 8",
+  "opponentName": "Hugh Brady",
+  "fighterId": "7",
+  "preFightStat": "4-2-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985e7"
+  },
+  "fightId": "6",
+  "date": "Nov 27, 2010",
+  "year": 2010,
+  "submission": "Submission (Arm Triangle)",
+  "round": 1,
+  "fightName": "CWFC 39: The Uprising",
+  "opponentName": "Joe Duffy",
+  "fighterId": "6",
+  "preFightStat": "4-1-0",
+  "win": false
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985e8"
+  },
+  "fightId": "5",
+  "date": "Oct 9, 2010",
+  "year": 2010,
+  "submission": "TKO",
+  "round": 1,
+  "fightName": "CFC: Chaos Fighting Championship 7",
+  "opponentName": "Connor Dillon",
+  "fighterId": "5",
+  "preFightStat": "3-1-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985e9"
+  },
+  "fightId": "4",
+  "date": "Dec 12, 2008",
+  "year": 2008,
+  "submission": "TKO",
+  "round": 1,
+  "fightName": "K.O.: The Fight Before Christmas",
+  "opponentName": "Stephen Bailey",
+  "fighterId": "4",
+  "preFightStat": "2-1-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985ea"
+  },
+  "fightId": "3",
+  "date": "Jun 28, 2008",
+  "year": 2008,
+  "submission": "Submission (Kneebar)",
+  "round": 1,
+  "fightName": "COT 3: Cage of Truth",
+  "opponentName": "Artemji Sitenkov",
+  "fighterId": "3",
+  "preFightStat": "2-0-0",
+  "win": false
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985eb"
+  },
+  "fightId": "2",
+  "date": "May 3, 2008",
+  "year": 2008,
+  "submission": "TKO",
+  "round": 1,
+  "fightName": "Cage Rage: Contenders: Ireland vs. Belgium",
+  "opponentName": "Mo Taylor",
+  "fighterId": "2",
+  "preFightStat": "1-0-0",
+  "win": true
+},
+{
+  "_id": {
+    "$oid": "65733570d18390f955a985ec"
+  },
+  "fightId": "1",
+  "date": "Mar 8, 2008",
+  "year": 2008,
+  "submission": "TKO (Punches)",
+  "round": 2,
+  "fightName": "COT 2: Cage of Truth",
+  "opponentName": "Gary Morris",
+  "fighterId": "1",
+  "preFightStat": "0-0-0",
+  "win": true
+}]
